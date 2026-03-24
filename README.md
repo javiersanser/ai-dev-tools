@@ -11,11 +11,16 @@ https://github.com/DataTalksClub/ai-dev-tools-zoomcamp
 
 
 
-## 🔧 Initial Environment Configuration
+## 🔧 Initial Environment Configuration Instructions
 
-Create a new repository (like this one) and a github codespace.
+🦉Main resource: 
+https://www.youtube.com/watch?v=Ky97uuifCZ8&list=PL3MmuxUbc_hLuyafXPyhTdbF4s_uNhc43&index=3
 
-Install (locally) Github Codespaces extension of vscode if you want to open the codespace in your local ID.
+Create a new repository (like this one) and a github codespace within it.
+
+Install vscode and the following extensions (locally): 
+- Github Codespaces if you want to open the codespace in your local ID for better experience.
+- Claude or Codex extensions for agentic development.
 
 Install:
 
