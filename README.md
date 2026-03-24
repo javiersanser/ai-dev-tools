@@ -1,5 +1,5 @@
 # ai-dev-tools
-This is my AI Dev Tools Course repository for labs and excercises.
+This is my AI Dev Tools Zoomcamp repository for labs and excercises.
 
 
 ## 📺 Course Youtube Playlist
