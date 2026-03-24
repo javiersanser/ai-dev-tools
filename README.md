@@ -15,7 +15,7 @@ https://github.com/DataTalksClub/ai-dev-tools-zoomcamp
 
 Create a new repository (like this one) and a github codespace.
 
-Install Github Codespaces extension of vscode if you want to open the codespace in your local ID.
+Install (locally) Github Codespaces extension of vscode if you want to open the codespace in your local ID.
 
 Install:
 
