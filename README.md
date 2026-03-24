@@ -1,5 +1,6 @@
 # ai-dev-tools
-AI Dev Tools Course Repository
+This is my AI Dev Tools Course repository for labs and excercises.
+
 
 ## 📺 Course Youtube Playlist
 https://www.youtube.com/playlist?list=PL3MmuxUbc_hLuyafXPyhTdbF4s_uNhc43
